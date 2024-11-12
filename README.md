@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ROHITDUBEY777
-- 👀 I’m interested in ...Coding,gaming
-- 🌱 I’m currently learning ...Java
+- 👋 Hi, I’m Rohit Dubey
+- 👀 I’m interested in Coding,gaming
+- 🌱 I’m currently learning Data Structures and algorithms in Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me Linkedin
+- 😄 Pronouns:He
 - ⚡ Fun fact: ...
 
 <!---
