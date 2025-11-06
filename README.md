@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Dubey
-- 👀 I’m interested in Coding,learning new things
+- 👀 I’m interested in Coding,learning new things in Tech Industry
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Linkedin,X(Formerly Twitter)
 - 😄 Pronouns:He
